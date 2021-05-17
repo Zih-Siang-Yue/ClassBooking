@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ClassBooking
+
+  Created by Zih-Siang Yue on 2021/5/16.
+  
+*/
+
+"AVAILABLE_TIMES" = "Available times";
+"TIMEZONE_DESC" = "* All times listed are in your local timezone: %@ (%@)";

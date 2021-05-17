@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ClassBooking
+
+  Created by Zih-Siang Yue on 2021/5/16.
+  
+*/
+
+"AVAILABLE_TIMES" = "授課時間";
+"TIMEZONE_DESC" = "* 時間以 %@(%@)顯示";
